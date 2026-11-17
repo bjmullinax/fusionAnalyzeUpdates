@@ -1,0 +1,241 @@
+{
+  "_meta": {
+    "schema": 1,
+    "about": "Walkthrough video for each fusionAnalyze card. Put a YouTube link in 'url' to turn that card's video button on; leave it empty for a grey 'coming soon' button. 'start' is seconds into the video (optional). Do not rename the card IDs.",
+    "support": ""
+  },
+  "getting_started": {
+    "title": "Getting Started",
+    "group": "Home",
+    "url": "",
+    "start": 0
+  },
+  "video_analysis": {
+    "title": "Video Analysis",
+    "group": "Analysis",
+    "url": "",
+    "start": 0
+  },
+  "event_timing": {
+    "title": "Event Timing Analysis",
+    "group": "Analysis",
+    "url": "",
+    "start": 0
+  },
+  "image_forensics": {
+    "title": "Image Forensics",
+    "group": "Analysis",
+    "url": "",
+    "start": 0
+  },
+  "frame_viewer": {
+    "title": "Frame Viewer",
+    "group": "Analysis",
+    "url": "",
+    "start": 0
+  },
+  "adjustments": {
+    "title": "Adjustments",
+    "group": "Analysis",
+    "url": "",
+    "start": 0
+  },
+  "calibrations_tab": {
+    "title": "Calibrations Tab",
+    "group": "Calibrations",
+    "url": "",
+    "start": 0
+  },
+  "camera_calibration": {
+    "title": "Camera Calibration",
+    "group": "Calibrations",
+    "url": "",
+    "start": 0
+  },
+  "lens_distortion": {
+    "title": "Lens Distortion",
+    "group": "Calibrations",
+    "url": "",
+    "start": 0
+  },
+  "checkerboard_calibration": {
+    "title": "Checkerboard Calibration",
+    "group": "Calibrations",
+    "url": "",
+    "start": 0
+  },
+  "moving_camera_calibration": {
+    "title": "Moving Camera Calibration",
+    "group": "Calibrations",
+    "url": "",
+    "start": 0
+  },
+  "video_stabilization": {
+    "title": "Video Stabilization",
+    "group": "Calibrations",
+    "url": "",
+    "start": 0
+  },
+  "ground_control_overlay": {
+    "title": "Ground Control Overlay",
+    "group": "Calibrations",
+    "url": "",
+    "start": 0
+  },
+  "photogrammetric_analysis": {
+    "title": "Photogrammetric Analysis",
+    "group": "Calibrations",
+    "url": "",
+    "start": 0
+  },
+  "crash_tab": {
+    "title": "Crash Tab",
+    "group": "Crash",
+    "url": "",
+    "start": 0
+  },
+  "speed_inverse_camera": {
+    "title": "Speed – Inverse Camera",
+    "group": "Crash",
+    "url": "",
+    "start": 0
+  },
+  "speed_pixel_scaling": {
+    "title": "Speed – Pixel Scaling",
+    "group": "Crash",
+    "url": "",
+    "start": 0
+  },
+  "speed_sliding_to_stop": {
+    "title": "Speed – Sliding to a Stop",
+    "group": "Crash",
+    "url": "",
+    "start": 0
+  },
+  "prt_from_video": {
+    "title": "PRT from Video",
+    "group": "Crash",
+    "url": "",
+    "start": 0
+  },
+  "signal_timing": {
+    "title": "Signal Timing",
+    "group": "Crash",
+    "url": "",
+    "start": 0
+  },
+  "traffic_speed_survey": {
+    "title": "Traffic Speed Survey",
+    "group": "Crash",
+    "url": "",
+    "start": 0
+  },
+  "pedestrian_walking_speed": {
+    "title": "Pedestrian Walking Speed",
+    "group": "Crash",
+    "url": "",
+    "start": 0
+  },
+  "diagram_from_video": {
+    "title": "Diagram from Video",
+    "group": "Crash",
+    "url": "",
+    "start": 0
+  },
+  "vehicle_id": {
+    "title": "Vehicle ID",
+    "group": "Crash",
+    "url": "",
+    "start": 0
+  },
+  "brake_light_detection": {
+    "title": "Brake Light Detection",
+    "group": "Crash",
+    "url": "",
+    "start": 0
+  },
+  "rest_position_detector": {
+    "title": "Rest Position Detector",
+    "group": "Crash",
+    "url": "",
+    "start": 0
+  },
+  "crash_calculations": {
+    "title": "Calculations",
+    "group": "Crash",
+    "url": "",
+    "start": 0
+  },
+  "crime_tab": {
+    "title": "Crime Tab",
+    "group": "Crime",
+    "url": "",
+    "start": 0
+  },
+  "license_plate": {
+    "title": "License Plate Analysis",
+    "group": "Crime",
+    "url": "",
+    "start": 0
+  },
+  "suspect_height": {
+    "title": "Suspect Height Estimation",
+    "group": "Crime",
+    "url": "",
+    "start": 0
+  },
+  "gait_analysis": {
+    "title": "Gait Analysis",
+    "group": "Crime",
+    "url": "",
+    "start": 0
+  },
+  "diagram_from_video_crime": {
+    "title": "Diagram from Video (Crime)",
+    "group": "Crime",
+    "url": "",
+    "start": 0
+  },
+  "flash_to_bang": {
+    "title": "Flash-to-Bang Distance",
+    "group": "Crime",
+    "url": "",
+    "start": 0
+  },
+  "demonstratives_tab": {
+    "title": "Demonstratives Tab",
+    "group": "Demonstratives",
+    "url": "",
+    "start": 0
+  },
+  "overlay_video": {
+    "title": "Overlay Video",
+    "group": "Demonstratives",
+    "url": "",
+    "start": 0
+  },
+  "annotate_frame": {
+    "title": "Annotate Frame",
+    "group": "Demonstratives",
+    "url": "",
+    "start": 0
+  },
+  "sequence_overlay": {
+    "title": "Sequence Overlay",
+    "group": "Demonstratives",
+    "url": "",
+    "start": 0
+  },
+  "bolo_flyer": {
+    "title": "BOLO Flyer",
+    "group": "Demonstratives",
+    "url": "",
+    "start": 0
+  },
+  "case_report": {
+    "title": "Case Report",
+    "group": "Case Report",
+    "url": "",
+    "start": 0
+  }
+}
